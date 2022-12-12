@@ -602,8 +602,8 @@ a[data-lightbox]:hover img {
 }
 
 #lightbox-modal .modal-dialog {
-    width: 90%;
-    max-width: 900px;
+    width: 100%;
+    max-width: 500px;
     margin: 0 auto 0;
 }
 
