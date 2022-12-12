@@ -36,7 +36,7 @@ section {
 }
 
 .subtext {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 a,
@@ -824,18 +824,31 @@ h4 {
 }
 
 .subtext {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     padding-top: 10px;
 }
 
+#bloc-7 {
+    max-width: 750px;
+}
+
+.formfill {
+    width: 100%;
+}
 
 .textcontact {
-    margin: auto;
+    width: 51%;
+    padding-top: 15px;
+}
+
+.textcontact p{
+    font-size:12px;
 }
 
 .hero-bloc-text {
     font-size: 38px;
+    font-weight: 700;
 }
 
 .btn-atomic-tangerine {
@@ -879,7 +892,7 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere.png");
-    padding: 40px 0px;
+    padding: 80px 0px;
     background-size: cover;
 }
 
