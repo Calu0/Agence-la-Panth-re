@@ -308,6 +308,10 @@ a:hover {
     padding-bottom: 15px;
 }
 
+#bloc-1-hero {
+    padding: 70px 0px;
+}
+
 #bloc-1-hero h1 {
     font-size: 36px;
     font-weight: 700;
@@ -892,9 +896,10 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere.webp");
-    padding: 80px 0px;
+    padding: 0px;
     background-size: cover;
 }
+
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
