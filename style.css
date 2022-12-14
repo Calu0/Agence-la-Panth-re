@@ -79,7 +79,7 @@ a:hover {
 }
 
 .bloc-md {
-    padding: 50px;
+    padding: 30px;
 }
 
 .bloc-sm {
@@ -783,7 +783,7 @@ h4 {
 
 .portfolio-thumb {
     max-width: 350px;
-    height: auto;
+    height: 100%;
     width: 100%;
     margin: auto;
     padding-bottom: 24px;
@@ -941,6 +941,10 @@ h4 {
 }
 
 @media (max-width: 767px) {
+    .col-sm-12 {
+        padding: 0px;
+    }
+
     .page-container {
         position: relative;
     }
@@ -1027,6 +1031,7 @@ h4 {
     .bloc-xl,
     .bloc-lg {
         padding: 40px 0;
+        overflow: hidden;
     }
     .a-block {
         padding: 0 10px;
