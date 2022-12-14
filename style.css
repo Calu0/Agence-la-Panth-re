@@ -911,6 +911,11 @@ h4 {
     .container {
         width: 100%;
     }
+
+    .navbar-brand {
+        padding: 0px;
+    }
+    
     .b-parallax {
         background-attachment: scroll;
     }
