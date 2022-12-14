@@ -935,7 +935,7 @@ h4 {
         padding-right: constant(safe-area-inset-right);
     }
     .portfolio-thumb {
-        max-width: 400px;
+        max-width: 280px;
         width: 100%;
     }
 }
